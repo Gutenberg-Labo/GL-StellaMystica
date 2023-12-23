@@ -5,8 +5,8 @@ https://github.com/Gutenberg-Labo/GL-StellaMystica
 GL-StellaMystica Font - Glyphs List
 
 * Latin Alphabet
-AÁĂÂÄÀĀĄÅÃÆBCĆČÇĊDĎĐÐEÉĔĚÊËĖÈĒĘẼFGĞĢĠHĦIÍĬÎÏİÌĪĮĨJKĶLĹĽĻŁMNŃŇŅÑOÓŎÔÖÒŐŌØÕŒPÞQRŔŘSŚŠŞȘẞTŤȚUÚŬÛÜÙŰŪŲŮŨVWẂŴẄẀXYÝŶŸỲỸZŹŽŻ[F_k.liga][F_l.liga][F_lslash.liga][F_thorn.liga]
-aáăâäàāąåãæbcćčçċdďđðeéĕěêëėèēęẽfgğģġhħiıíĭîï[idotaccent]ìīįĩjȷkķlĺľļłmnńňņñoóŏôöòőōøõœpþqrŕřsśšşșßſtťțuúŭûüùűūųůũvwẃŵẅẁxyýŷÿỳỹzźžżﬁﬂ[f_f][f_f_i][f_f_l]
+AÁĂÂÄÀĀĄÅÃÆBCĆČÇĊDĎĐÐEÉĔĚÊËĖÈĒĘẼFGĞĢĠHĦIÍĬÎÏİÌĪĮĨJKĶLĹĽĻŁMNŃŇŅÑOÓŎÔÖÒŐŌØÕŒPÞQRŔŘŖSŚŠŞȘẞTŤŢȚUÚŬÛÜÙŰŪŲŮŨVWẂŴẄẀXYÝŶŸỲȲỸZŹŽŻ[F_k.liga][F_l.liga][F_lslash.liga][F_thorn.liga]
+aáăâäàāąåãæbcćčçċdďđðeéĕěêëėèēęẽfgğģġhħiıíĭîïìīįĩjȷkķlĺľļłmnńňņñoóŏôöòőōøõœpþqrŕřŗsśšşșßſtťţțuúŭûüùűūųůũvwẃŵẅẁxyýŷÿỳȳỹzźžżﬁﬂ[idotaccent][f_f][f_f_i][f_f_l]
 ªº
 
 * Greek Alphabet
@@ -28,7 +28,7 @@ aáăâäàāąåãæbcćčçċdďđðeéĕěêëėèēęẽfgğģġhħiıíĭî
  ̈ ̇ ̀ ́ ̋ ̂ ̌ ̆ ̊ ̃ ̄ ̦ ̧ ̨
 
 * Symbols
-ƒ@&¶§©®™°′″|¦†ℓ‡℮�¢¤$€£¥∙∕+−×÷=≠><≥≤±≈~¬^∞∫Ω∆∏∑√µ∂%‰↑→↓←◊
+ƒ@&¶§©®™°′″|¦†ℓ‡℮�¢¤$€₺₽£¥∙∕+−×÷=≠><≥≤±≈~¬^∞∫Ω∆∏∑√µ∂%‰↑→↓←◊
 
 * Others
 [.notdef][NULL][CR]
